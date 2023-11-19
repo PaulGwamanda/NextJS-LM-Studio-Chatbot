@@ -1,6 +1,6 @@
 # NextJS LM-Studio Chatbot
 
-A NextJS animated chatbot on local CPU using LM Studio. 
+A NextJS animated chatbot that runs on local CPU using LM Studio. 
 
 ### Requirements
 
