@@ -54,4 +54,5 @@ structure folder app
 
 |Screenshot|
 |---|
+| ![SS Chat](https://github.com/PaulGwamanda/NextJS-LM-Studio-Chatbot/blob/main/public/image/chat-window.png?raw=true "ss nextjs chat ") | ![SS Chats](https://github.com/PaulGwamanda/NextJS-LM-Studio-Chatbot/blob/main/public/image/chat-window.png?raw=true "ss nextjs chat ") |
 
